@@ -21,8 +21,8 @@
 title: Chan's VC News
 email: zhu.chenyang@columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
-This website helps non-mandarin investers and entrepreneurs find up-to-date Chinese VC deals and news. 
-Links are in Chinese. While we try hard to write our own news, please hit the translate button from your browser for now. 
+  This website helps non-mandarin investers and entrepreneurs find up-to-date Chinese VC deals and news. 
+  Links are in Chinese. While we try hard to write our own news, please hit the translate button from your browser for now. 
 
 
 # baseurl: "" # the subpath of your site, e.g. /blog
